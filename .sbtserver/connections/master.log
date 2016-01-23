@@ -1,0 +1,21 @@
+New log file opened at Sat Jan 23 15:54:15 EST 2016 by 44004@cliffs-mbp
+Taking next connection to: 51239
+New client attempting to connect on port: 51240-51239
+  Address = /172.16.1.53:51239
+This client on port 51240 has uuid 7614a2b3-18a1-42de-a53c-f0974e86b158 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-7614a2b3-18a1-42de-a53c-f0974e86b158
+Taking next connection to: 51239
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 51239
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 51239
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 51239
+Server socket closed java.net.SocketException: Socket closed
+Server socket thread exiting.
+1 clients open, will close them...
+All client sockets have been closed.
+Closing the 44004@cliffs-mbp logs at Sat Jan 23 16:05:55 EST 2016, goodbye.
